@@ -1,2 +1,3 @@
 # linux
-it is demo
+it is demo.
+introduction to linux
